@@ -1,0 +1,4 @@
+[submodule "ProjectPracticeSite/public"]
+	path = ProjectPracticeSite/public
+	url = https://github.com/SavvaRain/ProjectPractice.github.io.git
+	branch = main
