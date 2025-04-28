@@ -1,0 +1,146 @@
+disabled = false
+languageCode = 'it-IT'
+languageName = 'Italiano'
+title = 'Magnolia'
+copyright = """Designed with [Hugo](https://gohugo.io/) by [Ludovico Caluori](https://github.com/ololiuhqui) 🎨 \n
+ Licensed under [MIT license](https://github.com/ololiuhqui/magnolia-free-hugo-theme/blob/main/LICENSE.md) 📄"""
+contentDir="content/it"
+
+[params]
+  subtitle = "Free Hugo theme"
+
+# PAGES
+
+  [params.homepage]
+    preTitle = 'Free Hugo theme'
+    title = "Magnolia"
+    intro= """
+### "La libertà ci rende esseri umani migliori e ci fa migliorare più velocemente il nostro status di razza collettiva ".
+___
+
+**Un tema Hugo semplice, completamente personalizzabile e multilingue pensato per i professionisti e le piccole imprese**.
+
+Ho costruito questo tema pensando alla semplicità, è piccolo e facilmente **personalizzabile, reattivo, modulare e multilingua**. Ma lascia anche spazio a una personalizzazione più approfondita, poiché utilizza **Bootstrap** e **SCSS**.
+
+Qui c'è la [pagina github del tema](https://github.com/ololiuhqui/magnolia-free-hugo-theme), a cui si dovrebbe fare riferimento se si cercano ulteriori dettagli, ricordati di lasciare una stellina al repo!
+
+Guardate cosa è in grado di fare questo tema nella pagina delle caratteristiche e vedete un bellissimo esempio di pagina dei contatti qui sotto.
+        """
+    mainButton = "Caratteristiche"
+    mainButtonRef = "/caratteristiche"
+    secondButton = "Contatti"
+    secondButtonRef = "/contatti"
+
+    blogTitle = "Storie interessanti"
+    blogButton= "More Stories"
+
+[params.office]
+  title = "Uffici"
+ description = "Questa pagina può essere facilmente personalizzata con l'aggiunta di un link a Google Maps per ottenere indicazioni stradali verso il luogo dell'attività."
+ buttonText = "Indicazioni"
+ buttonLink = "https://maps.app.goo.gl/LzsPzRkTYSZ8SF3y8"
+ mapLink = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d382266.44569392945!2d-76.55832397784323!3d41.53770983690751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c4d93a77484bbb%3A0xfff27920ab9bfae8!2sScranton%2C%20Pennsylvania%2C%20Stati%20Uniti!5e0!3m2!1sit!2sit!4v1716459350324!5m2!1sit!2sit" # google maps "embed" link here
+
+[params.contacts]
+  title = "Contattaci!"
+  formCallToAction = "Questa è una pagina di esempio \"contattaci\"; è possibile ricevere le risposte dei moduli su FormSpree (gratis)."
+  socialCallToAction = "Puoi aggiungere i tuoi link ai social media qui sotto!"
+  [params.contacts.form]
+    formspreeLink = "https://yourformspreelink.com"
+    firstname = "Nome*"
+    lastname = "Cognome*"
+    email = "E-mail*"
+    phone = "Numero di telefono*"
+    Inquiry = "Richiesta*"
+    checkbox = " accetto che i miei dati siano trattati in conformità alla legge*"
+    submitBtn = "Invia"
+[params.services]
+  title = "Caratteristiche"
+  description = """ Ho costruito questo tema pensando alla semplicità: è piccolo e facilmente personalizzabile, reattivo, modulare e multilingue. Ma lascia anche spazio ad ulteriori personalizzazioni approfondite, poiché utilizza Bootstrap e SCSS.
+  Questa pagina mostra anche un esempio di come si possono cambiare i nomi delle pagine del sito: Il sito utilizzerà il layout `services.html`, ma la pagina si chiamerà "Caratteristiche" e il link userà il relative permalink `/caratteristiche`."""
+  [params.services.list]
+    [params.services.list.0]
+      title= "Responsività"
+      description= "Il tema è completamente reattivo e si visualizza perfettamente su ogni dimensione dello schermo."
+    [params.services.list.01]
+      title = "Modularità"
+      description= "Nascondi e mostra alcuni elementi facilmente dal file di configurazione"
+    [params.services.list.02]
+      title = "Multilingual"
+      description= "a lingua predefinita dei contenuti è l'inglese (può essere cambiata), ma è possibile aggiungere tutte le lingue che si desidera in modo molto semplice; il tema include un esempio di lingua italiana e un menu a tendina per passare facilmente da una lingua all'altra. I permalink possono essere localizzati in ogni lingua (ad esempio, si può avere `/contatti` per l'inglese e `/contatti` per l'italiano)."
+    [params.services.list.03]
+      title = "Personalizzabile"
+      description= "Il contenuto della pagina può essere personalizzato all'interno dei file di configurazione. Alcune variabili possono essere cambiate dai file SCSS."
+    [params.services.list.04]
+      title = "SEO ready"
+      description= "Ogni pagina in /content ha una *meta descrizione* facilmente personalizzabile e un *meta titolo* unico per una migliore e più facile indicizzazione. Il tema userà l'immagine `static/img/meta-image` come meta-immagine per Google, Meta e X."
+    [params.services.list.05]
+      title = "Google Analytics integrato"
+      description= "Inserite il vostro tag Google Analytics nel file `config.toml` e sarete pronti a monitorare facilmente le prestazioni del vostro sito."
+    [params.services.list.06]
+      title = "Google Maps Incluso"
+      description= "La pagina dei contatti può essere facilmente personalizzata con l'aggiunta di un link a Google Maps per ottenere indicazioni stradali verso la sede dell'attività."
+
+[params.socials]
+  enabled = true
+  callToAction= "Connettiti con noi sui social media >"
+      [[params.socials.link]]
+        name = "github"
+        link = "https://github.com/ololiuhqui/magnolia-free-hugo-theme"
+      [[params.socials.link]]
+        name = "linkedin"
+        link = ""
+      [[params.socials.link]]
+        name = "whatsapp"
+        link = ""
+
+[params.schedules]
+  enabledFooter = false
+  enabledContacts = true
+  title = "Office hours"
+  [params.schedules.days]
+    day1 = "Lunedì: 9:00 – 19:00"
+    day2 = "Martedì: 9:00 – 19:00"
+    day3 = "Mercoledì: 9:00 – 19:00"
+    day4 = "Giovedì: 9:00 – 19:00"
+    day5 = "Venerdì: 9:00 – 19:00"
+    day6 = ""
+    day7 = ""
+
+[params.footer]
+  extraDescription1 = "Straight outta Scranton city"
+  extraDescription2 = "VAT No. 0000000000"
+  [params.footer.navigate]
+  heading = "Naviga"
+  [params.footer.contacts]
+  enabled = true
+  heading = "Contatti"
+  address = "Scranton 2865 Pouros Corners 55441-0788"
+  mail = "dundermifflin@fakemail.com"
+  mail2 = "dundermifflinorders@fakemail.com"
+  phone = "+00 0000000"
+
+[params.notfound]
+  title = "404, page not found"
+
+[params.single] # for posts pages (visible only if posts are rendered)
+  similarContent= "Contenuti Simili"
+  toc= "Indice"
+
+[menus]
+  [[menus.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
+  [[menus.main]]
+  name = "caratteristiche"
+  pageRef = "pages/services"
+  weight = 2
+  [[menus.main]]
+  name = "Uffici"
+  pageRef = "pages/office"
+  weight = 3
+  [[menus.main]]
+  name = "Contatti"
+  pageRef = "pages/contacts"
+  weight = 4

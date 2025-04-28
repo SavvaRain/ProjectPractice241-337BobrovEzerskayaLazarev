@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  {{- partial "head.html" . -}} 
+  <body
+    class="background-image"
+    {{ with resources.GetMatch "img/background.*" }}
+    style="background-image: url('{{.RelPermalink}}')"
+    {{ end }}
+  >
+     {{- partial "header.html" . -}}
+    <div id="content">
+      <main class="p-3 p-lg-5 container">
+        <div class="container">
+          {{- block "main" .}} {{- end }}
+        </div>
+        </main>
+    </div>
+    {{- partial "footer.html" . -}}
+  </body>
+</html>

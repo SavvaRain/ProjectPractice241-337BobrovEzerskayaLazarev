@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\exampleSite",
-    "\\ProjectPracticeSite",
-    "\\ProjectPracticeSite\\data",
-    "\\ProjectPracticeSite\\themes\\resume",
-    "\\ProjectPracticeSite\\themes\\resume\\archetypes"
+    "\\ProjectPracticeSiteV2",
+    "\\ProjectPracticeSiteV2\\content\\en\\pages",
+    "\\ProjectPracticeSiteV2\\content\\ru",
+    "\\ProjectPracticeSiteV2\\content\\ru\\pages",
+    "\\ProjectPracticeSiteV2\\content\\ru\\pages\\contacts",
+    "\\ProjectPracticeSiteV2\\content\\ru\\posts",
+    "\\ProjectPracticeSiteV2\\content\\ru\\tags",
+    "\\ProjectPracticeSiteV2\\content\\ru\\tags\\flowers",
+    "\\ProjectPracticeSiteV2\\content\\ru\\tags\\foss"
   ],
-  "SelectedNode": "\\exampleSite\\content",
+  "SelectedNode": "\\ProjectPracticeSiteV2",
   "PreviewInSolutionExplorer": false
 }

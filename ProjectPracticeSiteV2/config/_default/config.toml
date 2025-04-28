@@ -1,0 +1,45 @@
+baseURL = 'https://example.com'
+languageCode = 'en'
+title = 'Mos Politech' # This can get overwritten by the single language files
+defaultContentLanguage = 'en'
+# defaultContentLanguageInSubDir = true
+enableRobotsTXT = true
+theme = "Magnolia"
+googleAnalytics = ""
+
+# Block AI crawlers to limit traffic
+  # robots.txt from https://robotstxt.com/ai
+  # Note that enabling this might impact SEO performance, since many search engines now
+  # use LLMs that gather data with these crawlers from across the web
+[params.robots]
+  blockAIcrawlers = false
+
+# BLOG
+# Uncomment if you want to disable all posts and tags rendering and indexing
+#ignoreFiles= ['posts/*']
+#disableKinds = ['taxonomy', 'term']
+
+# Developer area #
+
+[taxonomies]
+tag = "tags"
+
+[module]
+    [[module.mounts]]
+      source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+      target = "assets/js/bootstrap.bundle.min.js"
+      [[module.mounts]]
+      source = 'assets'
+      target = 'assets'
+  # Prints warning if hugo version is too old
+  [module.hugoVersion]
+    extended = false
+    min = '0.129.0'
+
+
+  
+# To render some markdown otherwise unrendered
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

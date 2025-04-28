@@ -1,0 +1,127 @@
+<head>
+  {{ if .IsHome }}
+    <title>
+      {{ .Page.Title }}
+      {{ .Site.Title }}
+      {{ .Site.Params.subtitle }}
+    </title>
+  {{ else }}
+    <title>
+      {{ .Page.Title }} |
+      {{ .Site.Title }}
+      {{ .Site.Params.subtitle }}
+    </title>
+  {{ end }}
+  <meta charset="utf-8" />
+  <meta
+    name="description"
+    {{ if.Page.Description }}
+      content="{{ .Page.Description }}"
+    {{ else }}
+      content="{{ .Page.Summary }}"
+    {{ end }}
+  />
+
+  <meta name="dc.relation" content="{{ .Site.BaseURL }}" />
+
+  <meta name="robots" content="index,follow" />
+  
+
+
+  <!-- Google / Search Engine Tags -->
+  <meta
+    itemprop="name"
+    content="{{ .Page.Title }} {{ .Site.Title }} {{ .Site.Params.subtitle }}"
+  />
+  <meta
+    itemprop="description"
+    {{ if.Page.Description }}
+      content="{{ .Page.Description }}"
+    {{ else }}
+      content="{{ .Page.Summary }}"
+    {{ end }}
+  />
+
+  {{/* Image */}}
+  {{ with .Resources.GetMatch "images/featured.*" }}
+    <meta itemprop="image" content="{{ . }}" />
+  {{ else }}
+    <meta
+      itemprop="image"
+      content="{{ resources.GetMatch "img/meta-image.*" | absURL }}"
+    />
+  {{ end }}
+
+
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:type" content="website" />
+  <meta
+    property="og:title"
+    content="{{ .Page.Title }} {{ .Site.Title }} {{ .Site.Params.subtitle }}"
+  />
+  <meta
+    property="og:description"
+    {{ if.Page.Description }}
+      content="{{ .Page.Description }}"
+    {{ else }}
+      content="{{ .Page.Summary }}"
+    {{ end }}
+  />
+  {{ with .Resources.GetMatch "images/featured.*" }}
+    <meta property="og:image" content="{{ . }}" />
+  {{ else }}
+    <meta
+      property="og:image"
+      content="{{ resources.GetMatch "img/meta-image.*" | absURL }}"
+    />
+  {{ end }}
+
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta
+    name="twitter:title"
+    content="{{ .Page.Title }} {{ .Site.Title }} {{ .Site.Params.subtitle }}"
+  />
+  <meta
+    name="twitter:description"
+    {{ if.Page.Description }}
+      content="{{ .Page.Description }}"
+    {{ else }}
+      content="{{ .Page.Summary }}"
+    {{ end }}
+  />
+  {{ with .Resources.GetMatch "images/featured.*" }}
+    <meta name="twitter:image" content="{{ . }}" />
+  {{ else }}
+    <meta
+      name="twitter:image"
+      content="{{ resources.GetMatch "img/meta-image.*" | absURL }}"
+    />
+  {{ end }}
+
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+  <meta name="theme-color" content="#1A94D2" />
+
+  {{/* This adds bootstrap CSS */}}
+  {{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed") }}
+  {{ $style := resources.Get "/scss/main.scss" | toCSS $options | minify }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen" />
+
+  {{/* Favicon */}}
+  {{ with resources.GetMatch "img/favicon.*" }}
+  <link
+    rel="shortcut icon"
+    type="image/x-icon"
+    href="{{.RelPermalink}}"
+  />
+  {{end}}
+  
+  <!-- Google Analytics -->
+  {{ template "_internal/google_analytics.html" . }}
+</head>

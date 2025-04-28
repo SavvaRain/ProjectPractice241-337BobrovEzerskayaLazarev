@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<hr />
+<div class="mb-3 g-3 col">
+  {{range .Pages}}
+  <a href="{{ .RelPermalink }}" class="btn btn-sm btn-light border-primary m-2"
+    >#{{ .Title }}</a
+  >
+  {{end}}
+</div>
+
+{{end}}
