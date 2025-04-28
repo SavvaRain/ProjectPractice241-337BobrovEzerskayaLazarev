@@ -2,3 +2,8 @@
 	path = ProjectPracticeSite/public
 	url = https://github.com/SavvaRain/ProjectPractice.github.io.git
 	branch = main
+
+[submodule "ProjectPracticeSiteV2/themes/Magnolia"]
+	path = ProjectPracticeSiteV2/themes/Magnolia
+	url = https://savvarain.github.io/ProjectPracticeTest.github.io
+	branch = main
