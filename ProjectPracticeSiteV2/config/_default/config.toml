@@ -1,4 +1,4 @@
-baseURL = 'https://example.com'
+baseURL = 'https://savvarain.github.io/ProjectPractice.github.io/'
 languageCode = 'en'
 title = 'Mos Politech' # This can get overwritten by the single language files
 defaultContentLanguage = 'en'

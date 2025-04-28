@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "W:\\Experiments\\ProjectPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\config.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\config\\_default\\config.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\tags\\flowers\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".ru.toml",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
               "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
@@ -47,13 +47,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "config.toml",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\config.toml",
               "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\config\\_default\\config.toml",
               "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\config.toml",
               "RelativeToolTip": "ProjectPracticeSiteV2\\config\\_default\\config.toml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-04-28T18:27:40.041Z",
               "EditorCaption": ""
@@ -68,8 +68,7 @@
               "RelativeToolTip": "ProjectPracticeSiteV2\\content\\ru\\tags\\flowers\\_index.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-28T18:26:32.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T18:26:32.837Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "ProjectPracticeSiteV2\\content\\ru\\tags\\_index.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-28T18:26:27.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T18:26:27.058Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "ProjectPracticeSite\\content\\main.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-04-27T20:48:56.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T20:48:56.366Z"
             }
           ]
         }

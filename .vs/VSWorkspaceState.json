@@ -2,15 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\ProjectPracticeSiteV2",
-    "\\ProjectPracticeSiteV2\\content\\en\\pages",
-    "\\ProjectPracticeSiteV2\\content\\ru",
-    "\\ProjectPracticeSiteV2\\content\\ru\\pages",
-    "\\ProjectPracticeSiteV2\\content\\ru\\pages\\contacts",
-    "\\ProjectPracticeSiteV2\\content\\ru\\posts",
-    "\\ProjectPracticeSiteV2\\content\\ru\\tags",
-    "\\ProjectPracticeSiteV2\\content\\ru\\tags\\flowers",
-    "\\ProjectPracticeSiteV2\\content\\ru\\tags\\foss"
+    "\\ProjectPracticeSiteV2\\config",
+    "\\ProjectPracticeSiteV2\\config\\_default"
   ],
-  "SelectedNode": "\\ProjectPracticeSiteV2",
+  "SelectedNode": "\\ProjectPracticeSiteV2\\config\\_default\\config.toml",
   "PreviewInSolutionExplorer": false
 }
