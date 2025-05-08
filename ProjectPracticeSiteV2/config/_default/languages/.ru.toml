@@ -22,20 +22,16 @@ contentDir = "content/ru"
 ### Проект по разработке сайта-сервиса для более удобной и интуитивно понятной работы над проведением остаточных знаний в университете.
 ___
 
-**A simple, completely customizable, multilingual Hugo theme thought for professionals and small businesses.**
 
-I built this theme with simplicity in mind, it is small and easily **customizable, responsive, modular and multilingual**. But it also leaves some space to further in-depth customization since it uses **Bootstrap** and **SCSS**.
+Долгое время проведение остаточных знаний считалось трудоёмким процессом: преподавателям и администрации прходится заполнять много отчётов и бумаг, согласовывать даты проведения проверки, а также выбирать группы для прохождения тестирования. На все эти действия из-за нехватки единого ресурса, тратится много времени и сил. **Этот проект спешит исправить ситуацию и предоставить сотрудникам университета удобную систему для проведения остаточных знаний.**
 
-Here there's the [theme github page](https://github.com/ololiuhqui/magnolia-free-hugo-theme), to which you should refer if you seek for more details, make sure to star the repo!
-
-Look at what this theme is capable to do on the features page, and see a beautiful contacts page example below.
         """
-    mainButton = "Features"
+    mainButton = "О проекте"
     mainButtonRef = "features" # Just write the name or slug of the page here
-    secondButton = "Contacts"
+    secondButton = "Участники"
     secondButtonRef = "contacts" # Just write the name or slug of the page here
   # For the blog feed section (visible only if posts are rendered)
-    blogTitle = "Interesting Stories"
+    blogTitle = "Журнал"
     blogButton= "More Stories"
 
 [params.office]
@@ -139,18 +135,18 @@ Look at what this theme is capable to do on the features page, and see a beautif
 [menus]
 # PageRef should refer to the "translationKey" in `/content/<page>` frontmatter, names can be changed freely
   [[menus.main]]
-  name = "Home"
+  name = "Главная"
   pageRef = "/"
   weight = 1
   [[menus.main]]
-  name = "Features"
+  name = "О проекте"
   pageRef = "pages/services"
   weight = 2
   [[menus.main]]
-  name = "The Office"
+  name = "Участники"
   pageRef = "pages/office"
   weight = 3
   [[menus.main]]
-  name = "Contacts"
+  name = "Ресурсы"
   pageRef = "pages/contacts"
   weight = 4

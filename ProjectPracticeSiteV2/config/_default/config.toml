@@ -1,7 +1,7 @@
 baseURL = 'https://savvarain.github.io/ProjectPractice.github.io/'
-languageCode = 'en'
+languageCode = 'ru'
 title = 'Mos Politech' # This can get overwritten by the single language files
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'ru'
 # defaultContentLanguageInSubDir = true
 enableRobotsTXT = true
 theme = "Magnolia"

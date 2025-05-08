@@ -2,9 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\ProjectPracticeSiteV2",
-    "\\ProjectPracticeSiteV2\\config",
-    "\\ProjectPracticeSiteV2\\config\\_default"
+    "\\ProjectPracticeSiteV2\\content",
+    "\\ProjectPracticeSiteV2\\content\\ru",
+    "\\ProjectPracticeSiteV2\\content\\ru\\pages",
+    "\\ProjectPracticeSiteV2\\content\\ru\\pages\\404",
+    "\\ProjectPracticeSiteV2\\content\\ru\\pages\\contacts",
+    "\\ProjectPracticeSiteV2\\content\\ru\\pages\\office",
+    "\\ProjectPracticeSiteV2\\content\\ru\\pages\\services",
+    "\\ProjectPracticeSiteV2\\themes"
   ],
-  "SelectedNode": "\\ProjectPracticeSiteV2\\config\\_default\\config.toml",
+  "SelectedNode": "\\ProjectPracticeSiteV2\\content\\ru\\profile.webp",
   "PreviewInSolutionExplorer": false
 }
