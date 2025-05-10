@@ -9,7 +9,7 @@ contentDir = "content/ru"
 
 # Change single params to "false" to remove from rendering
 [params]
-  subtitle = "false" # This goes in the header and in the site title
+  subtitle = "" # This goes in the header and in the site title
   # PAGES
   [params.homepage]
     # Notice that SEO meta tags (what appears in google search results) can be set
@@ -41,8 +41,14 @@ ___
  mapLink = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d382266.44569392945!2d-76.55832397784323!3d41.53770983690751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c4d93a77484bbb%3A0xfff27920ab9bfae8!2sScranton%2C%20Pennsylvania%2C%20Stati%20Uniti!5e0!3m2!1sit!2sit!4v1716459350324!5m2!1sit!2sit" # google maps "embed" link here
 
 [params.contacts]
-  title = "Get in touch!"
-  formCallToAction = "This is a \"contact us\" example page, you can receive form responses on FormSpree."
+  title = "Ресурсы:"
+  ###
+  
+  ###
+  formCallToAction = "[theme github page](https://github.com/ololiuhqui/magnolia-free-hugo-theme)."
+  intro = """
+  ### Hello
+  """
   socialCallToAction = "You can add your own social media links below!" # These are the same as in [params.social]
   [params.contacts.form]
     formspreeLink = "https://yourformspreelink.com" #subscribe to formspree and add the link for the form here
@@ -55,11 +61,11 @@ ___
     submitBtn = "Submit"
 [params.services]
   title = "О проекте"
-  description = """Целью проекта "Остаточные знания" является разработка онлайн-сервиса для отслеживания процесса проведения остаточных знаний работникам университета.   
+  description = """Целью проекта "Остаточные знания" является разработка онлайн-сервиса для отслеживания процесса проведения остаточных знаний работникам университета."""   
+  description2 = """В сервисе будут присутствовать функции: подтверждения, редактирования и отправка отчётов, возможность редактирование расписания и дат проведения тестирования, возможность просмотра и редактирование групп, проходящие тестирование, возможность составлять и отправлять приказы, согласовывать рабочие трудности и так далее."""
+  description3 = """Сервис будет выполнен в форме сайта, подобно личному кабинету Московского Политеха, с разными уровнями доступа для соответствующих ролей в университете. Через сайт можно будет не только принимать решения, связанные с остаточными знаниями, но также коммуницировать."""
+  description4 = """Для выполнения такой масштабной задачи, пришлось разделить участников проектов на три категории:"""
 
-В сервисе будут присутствовать функции: подтверждения, редактирования и отправка отчётов, возможность редактирование расписания и дат проведения тестирования, возможность просмотра и редактирование групп, проходящие тестирование, возможность составлять и отправлять приказы, согласовывать рабочие трудности и так далее.
-Сервис будет выполнен в форме сайта, подобно личному кабинету Московского Политеха, с разными уровнями доступа для соответствующих ролей в университете. Через сайт можно будет не только принимать решения, связанные с остаточными знаниями, но также коммуницировать.  
-Для выполнения такой масштабной задачи, пришлось разделить участников проектов на три категории:"""
   [params.services.list]
     # You can add as much params.services.list.<N> as you like
     [params.services.list.0]
@@ -75,7 +81,7 @@ ___
 
 [params.schedules] # Time schedules (eg. your office openming hours)
   enabledFooter = false # This will add the schedules on the footer too
-  enabledContacts = true # This will add the schedule to the contact page
+  enabledContacts = false # This will add the schedule to the contact page
   title = "Office hours" # For contacts page only
   [params.schedules.days]
   # Use something like "Monday: 9-13" for each day
