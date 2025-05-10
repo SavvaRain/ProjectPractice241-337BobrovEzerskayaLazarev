@@ -24,15 +24,14 @@ ___
 
 
 Долгое время проведение остаточных знаний считалось трудоёмким процессом: преподавателям и администрации прходится заполнять много отчётов и бумаг, согласовывать даты проведения проверки, а также выбирать группы для прохождения тестирования. На все эти действия из-за нехватки единого ресурса, тратится много времени и сил. **Этот проект спешит исправить ситуацию и предоставить сотрудникам университета удобную систему для проведения остаточных знаний.**
-
         """
     mainButton = "О проекте"
-    mainButtonRef = "features" # Just write the name or slug of the page here
+    mainButtonRef = "about" # Just write the name or slug of the page here
     secondButton = "Участники"
     secondButtonRef = "contacts" # Just write the name or slug of the page here
   # For the blog feed section (visible only if posts are rendered)
     blogTitle = "Журнал"
-    blogButton= "More Stories"
+    blogButton= "Больше записей"
 
 [params.office]
   title = "The Office"
@@ -55,47 +54,24 @@ ___
     checkbox = "I accept that my data will be processed in accordance with the law*"
     submitBtn = "Submit"
 [params.services]
-  title = "Features"
-  description = """ I built this theme with simplicity in mind, it is small and easily customizable, responsive, modular and multilingual. But it also leaves some space to further in-depth customization since it uses Bootstrap and SCSS.
-  This page also shows an example of how you can change the site`s page names: The site will use the `services.html` layout for this page, but the page will be called "Features" and the link will use the related permalink `/features`."""
+  title = "О проекте"
+  description = """Целью проекта "Остаточные знания" является разработка онлайн-сервиса для отслеживания процесса проведения остаточных знаний работникам университета.   
+
+В сервисе будут присутствовать функции: подтверждения, редактирования и отправка отчётов, возможность редактирование расписания и дат проведения тестирования, возможность просмотра и редактирование групп, проходящие тестирование, возможность составлять и отправлять приказы, согласовывать рабочие трудности и так далее.
+Сервис будет выполнен в форме сайта, подобно личному кабинету Московского Политеха, с разными уровнями доступа для соответствующих ролей в университете. Через сайт можно будет не только принимать решения, связанные с остаточными знаниями, но также коммуницировать.  
+Для выполнения такой масштабной задачи, пришлось разделить участников проектов на три категории:"""
   [params.services.list]
     # You can add as much params.services.list.<N> as you like
     [params.services.list.0]
-      title= "Responsive"
-      description= "The theme is fully responsive and shows perfectly on every screen size."
+      title= "Frontend"
+      description= "Занимаются реализацией макета сайта и воплощением его функционаал."
     [params.services.list.01]
-      title = "Modular"
-      description= "Hide and show some elements easily from the config file."
+      title = "Backend"
+      description= "Занимаются серверной частью сайта, связью сайта с базами данных."
     [params.services.list.02]
-      title = "Multilingual"
-      description= "The default content language is english (it can be changed), but you can add as many languages as you want very easily, the theme includes an italian language example and a dropdown menù for easily switching between languages. Permalinks can be localized in each language (eg. you can have `/contacts` for english and `/contatti` for italian)."
-    [params.services.list.03]
-      title = "Customizable"
-      description= "The page content can be customized from within the config files."
-    [params.services.list.04]
-      title = "SEO ready"
-      description= "Every page in /content has an easily customizable meta description and a unique meta title for better and easier indexing. The theme will use the image `static/img/meta-image` as meta image for Google, Meta and X."
-    [params.services.list.05]
-      title = "Google Analytics supported"
-      description= "Insert your Google Analytics tag in the `config.toml` file and be ready to track your site performances easily."
-    [params.services.list.06]
-      title = "Google Maps Included"
-      description= "The contact page can be easily customized by adding a google maps link to get directions towards your activity location."
+      title = "Дизайнеры"
+      description= "Разрабатывают дизайн сайта, стилистику и приятный итерфейс."
 
-[params.socials]
-  enabled = true # enables/disables the whole social section in the footer
-  callToAction= "Get connected with us on social networks >"
-      [[params.socials.link]]
-        name = "github"
-        link = "https://github.com/ololiuhqui/magnolia-free-hugo-theme"
-      [[params.socials.link]]
-        name = "linkedin"
-        link = ""
-      [[params.socials.link]]
-        name = "whatsapp"
-        link = ""
-      # You can add other socials here by copypasting the above section and
-      # selecting the right name for the icon from here https://icons.getbootstrap.com/
 
 [params.schedules] # Time schedules (eg. your office openming hours)
   enabledFooter = false # This will add the schedules on the footer too

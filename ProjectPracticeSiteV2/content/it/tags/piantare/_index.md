@@ -1,4 +1,0 @@
----
-title: Piantare
-translationKey: planting
----

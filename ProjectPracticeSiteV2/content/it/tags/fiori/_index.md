@@ -1,4 +1,0 @@
----
-title: Fiori
-translationKey: flowers
----

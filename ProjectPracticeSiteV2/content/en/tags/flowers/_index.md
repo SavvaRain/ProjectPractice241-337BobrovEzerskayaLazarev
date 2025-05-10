@@ -1,4 +1,0 @@
----
-title: Flowers
-translationKey: flowers
----

@@ -1,4 +1,0 @@
----
-title: Growing
-translationKey: growing
----

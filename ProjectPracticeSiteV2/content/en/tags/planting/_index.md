@@ -1,4 +1,0 @@
----
-title: Planting
-translationKey: planting
----
