@@ -1,10 +1,10 @@
 ---
-title: 'Why Donating to Free and Opensource Software Projects Is Important'
+title: 'Разарботка полноценного стайл-гайда для страниц'
 slug: 'why-donating-to-free-and-opensource-software-projects-is-important'
-tags: ['growing', 'planting', 'foss']
-summary: 'Digital networks were built for the purpose of sharing computing resources by people who were themselves sharing resources, technologies, and credit in order to create it. This is why digital technology is biased in favor of openness and sharing. Because we are not used to operating in a realm with these biases, however, we often exploit the openness of others or end up exploited ourselves.' # This is what will be displayed as summary for the post (the theme will automatically generate one from the content you write in the post if left empty)
+tags: ['Дизайн', 'Стилистика', 'Компоненты']
+summary: 'Лазарев Савва разработал уникальный style guide для разработки сайта "Остаточных Знаний" Московского Политеха с палитрой, типографикой, компонентами и прочими примечаниями, которые могут использовать все дизайнеры проекта. Style Guide помог превратить неупорядоченные макеты страниц в системные макеты с одинаковым стилем и похожим дизайном. Подробнее о процессе разработки можете прочитать в посте!' # This is what will be displayed as summary for the post (the theme will automatically generate one from the content you write in the post if left empty)
 description: # This is what will be displayed as meta data (the theme will automatically grab it from summary if left empty)
-date: '2024-10-03T11:16:02+02:00'
+date: '2025-03-03T11:16:02+02:00'
 expiryDate: '' # You want your post to vanish after a certain date? Write it down here! Must be in the same format of `date`
 translationKey: donating-opensource # If you have a translated post for this one, set the same translationKey to have the translation displayed
 draft:
