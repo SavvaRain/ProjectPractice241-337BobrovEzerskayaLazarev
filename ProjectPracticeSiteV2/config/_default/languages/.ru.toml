@@ -34,8 +34,10 @@ ___
     blogButton= "Больше записей"
 
 [params.office]
-  title = "The Office"
- description = "This page can be easily customized by adding a google maps link to get directions towards your activity location."
+ title = "Участники"
+ title1 = "Участник 1"
+ title2 = "Участник 1"
+ description1 = "This page can be easily customized by adding a google maps link to get directions towards your activity location."
  buttonText = "Get directions"
  buttonLink = "https://maps.app.goo.gl/LzsPzRkTYSZ8SF3y8" # google maps "share" link here (for button)
  mapLink = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d382266.44569392945!2d-76.55832397784323!3d41.53770983690751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c4d93a77484bbb%3A0xfff27920ab9bfae8!2sScranton%2C%20Pennsylvania%2C%20Stati%20Uniti!5e0!3m2!1sit!2sit!4v1716459350324!5m2!1sit!2sit" # google maps "embed" link here
@@ -124,5 +126,5 @@ ___
   weight = 3
   [[menus.main]]
   name = "Ресурсы"
-  pageRef = "pages/resourses"
+  pageRef = "pages/contacts"
   weight = 4

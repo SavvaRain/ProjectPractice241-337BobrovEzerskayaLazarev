@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "W:\\Experiments\\ProjectPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\contacts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\contacts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,12 +11,44 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\services.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\assets\\scss\\main.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\assets\\scss\\main.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\contacts\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\content\\ru\\pages\\contacts\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\office\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\content\\ru\\pages\\office\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\services\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\content\\ru\\pages\\services\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\assets\\scss\\custom-variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\assets\\scss\\custom-variables.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\assets\\scss\\custom.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\assets\\scss\\custom.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\section.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\section.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\content\\ru\\pages\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\office\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\content\\ru\\pages\\office\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\config.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\config\\_default\\config.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -47,20 +67,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\content\\ru\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\services\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\content\\ru\\pages\\services\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\languages\\.it.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\config\\_default\\languages\\.it.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\404\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\content\\ru\\pages\\404\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\contacts\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectPracticeSiteV2\\content\\ru\\pages\\contacts\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -82,37 +94,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "contacts.html",
-              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\contacts.html",
-              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\contacts.html",
-              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\contacts.html",
-              "RelativeToolTip": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\contacts.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-10T23:24:35.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "single.html",
-              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html",
-              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html",
-              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html",
-              "RelativeToolTip": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html",
+              "DocumentIndex": 9,
+              "Title": "custom.scss",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\assets\\scss\\custom.scss",
+              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\assets\\scss\\custom.scss",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\assets\\scss\\custom.scss",
+              "RelativeToolTip": "ProjectPracticeSiteV2\\assets\\scss\\custom.scss",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-10T23:24:26.831Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-05-10T23:50:39.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "section.html",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\section.html",
               "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\section.html",
@@ -120,51 +118,89 @@
               "RelativeToolTip": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\section.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-10T23:24:24.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T23:24:24.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "home.html",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\home.html",
               "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\home.html",
               "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\home.html",
               "RelativeToolTip": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\home.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-10T23:18:05.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "office.html",
-              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html",
-              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html",
-              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html",
-              "RelativeToolTip": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-10T19:22:52.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "services.html",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\services.html",
               "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\services.html",
               "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\services.html",
               "RelativeToolTip": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\services.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-10T19:22:48.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": ".ru.toml",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
+              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
+              "RelativeToolTip": "ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-28T18:27:41.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contacts.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\contacts.html",
+              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\contacts.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\contacts.html",
+              "RelativeToolTip": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\contacts.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-10T23:24:35.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\services\\index.html",
+              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\content\\ru\\pages\\services\\index.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\services\\index.html",
+              "RelativeToolTip": "ProjectPracticeSiteV2\\content\\ru\\pages\\services\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-10T18:02:55.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\contacts\\index.html",
+              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\content\\ru\\pages\\contacts\\index.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\contacts\\index.html",
+              "RelativeToolTip": "ProjectPracticeSiteV2\\content\\ru\\pages\\contacts\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-08T22:10:46.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "index.html",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\office\\index.html",
               "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\content\\ru\\pages\\office\\index.html",
@@ -177,20 +213,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_index.md",
-              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\_index.md",
-              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\content\\ru\\pages\\_index.md",
-              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\_index.md",
-              "RelativeToolTip": "ProjectPracticeSiteV2\\content\\ru\\pages\\_index.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-05-08T21:53:22.096Z",
+              "DocumentIndex": 3,
+              "Title": "main.scss",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\assets\\scss\\main.scss",
+              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\assets\\scss\\main.scss",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\assets\\scss\\main.scss",
+              "RelativeToolTip": "ProjectPracticeSiteV2\\assets\\scss\\main.scss",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-05-10T23:50:42.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
+              "Title": "custom-variables.scss",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\assets\\scss\\custom-variables.scss",
+              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\assets\\scss\\custom-variables.scss",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\assets\\scss\\custom-variables.scss",
+              "RelativeToolTip": "ProjectPracticeSiteV2\\assets\\scss\\custom-variables.scss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-05-10T23:50:40.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "_index.md",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\_index.md",
               "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\content\\ru\\_index.md",
@@ -202,20 +250,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".ru.toml",
-              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
-              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
-              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
-              "RelativeToolTip": "ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-28T18:27:41.485Z",
-              "EditorCaption": ""
+              "DocumentIndex": 13,
+              "Title": "_index.md",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\_index.md",
+              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\content\\ru\\pages\\_index.md",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\_index.md",
+              "RelativeToolTip": "ProjectPracticeSiteV2\\content\\ru\\pages\\_index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-08T21:53:22.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "index.html",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\404\\index.html",
               "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\content\\ru\\pages\\404\\index.html",
@@ -227,7 +274,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
+              "Title": "office.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html",
+              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html",
+              "RelativeToolTip": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-10T19:22:52.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "single.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html",
+              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html",
+              "RelativeToolTip": "ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-10T23:24:26.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "README.md",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\README.md",
               "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\README.md",
@@ -239,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "theme.toml",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\theme.toml",
               "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\themes\\Magnolia\\theme.toml",
@@ -251,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "config.toml",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\config.toml",
               "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\config\\_default\\config.toml",
@@ -263,19 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "index.html",
-              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\contacts\\index.html",
-              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\content\\ru\\pages\\contacts\\index.html",
-              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\contacts\\index.html",
-              "RelativeToolTip": "ProjectPracticeSiteV2\\content\\ru\\pages\\contacts\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-08T22:10:46.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": ".it.toml",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\config\\_default\\languages\\.it.toml",
               "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\config\\_default\\languages\\.it.toml",
@@ -287,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "README.md",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\README.md",
               "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\themes\\Magnolia\\README.md",
@@ -296,18 +355,6 @@
               "ViewState": "AgIAADMAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-05-08T17:31:23.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "index.html",
-              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\services\\index.html",
-              "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\content\\ru\\pages\\services\\index.html",
-              "ToolTip": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\content\\ru\\pages\\services\\index.html",
-              "RelativeToolTip": "ProjectPracticeSiteV2\\content\\ru\\pages\\services\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-10T18:02:55.12Z"
             }
           ]
         }
