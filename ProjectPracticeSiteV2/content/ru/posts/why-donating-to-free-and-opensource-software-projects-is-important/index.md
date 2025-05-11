@@ -1,6 +1,6 @@
 ---
-title: 'Разарботка полноценного стайл-гайда для страниц'
-slug: 'why-donating-to-free-and-opensource-software-projects-is-important'
+title: 'Разарботка полноценного Style Guide для страниц'
+slug: 'style-guide'
 tags: ['Дизайн', 'Стилистика', 'Компоненты']
 summary: 'Лазарев Савва разработал уникальный style guide для разработки сайта "Остаточных Знаний" Московского Политеха с палитрой, типографикой, компонентами и прочими примечаниями, которые могут использовать все дизайнеры проекта. Style Guide помог превратить неупорядоченные макеты страниц в системные макеты с одинаковым стилем и похожим дизайном. Подробнее о процессе разработки можете прочитать в посте!' # This is what will be displayed as summary for the post (the theme will automatically generate one from the content you write in the post if left empty)
 description: # This is what will be displayed as meta data (the theme will automatically grab it from summary if left empty)
@@ -15,88 +15,20 @@ Params:
 # Refer to [Front matter | Hugo](https://gohugo.io/content-management/front-matter/)
 ---
 
-## VII. SOCIAL
+### Основная часть поста
 
-_In spite of its many dehumanizing tendencies, digital media is
-still biased toward the social. In the ongoing coevolution between
-people and technologies, tools that connect us thrive—and tools
-that don’t connect us soon learn to. We must remember that the
-bias of digital media is toward contact with other people, not with
-their content or, worse, their cash. If we don’t, we risk robbing
-ourselves of the main gift digital technology has to oﬀer us in
-return for our having created it._
+Лазареву Савву было поручено разработать стилистику для сайта остаточных знаний, чтобы она была приятной и понятной пользователю, а также соответствовала стилю остальных сервисов Московского Политеха. В качестве основы для Style Guide был взят стиль личного кабинета Московского политеха, так как он выглядит привлекательно и современно и имеет много универсальных решений.
 
-What all these social networking businesses keep getting wrong, however, is that the net is not becoming a social medium. It already is one. The history of the Internet can probably best be understood as a social medium repeatedly shaking off attempts to turn it into something else. And it will keep doing so. Our digital networks are biased toward social connections—toward contact. Any effort to redefine or hijack those connections for profit end up compromising the integrity of the network itself, and compromising the real promise of contact.
+Цветовая палитра хорошо детализирована и учитывает практически все неявные моменты, которые могут возникнуть при разработке макетов страниц для сайта. Под каждым цветом указана сфера его применения для того, чтобы всем участникам проекта было комфортно работать с Style Guide. Также примечательно, что палитра имеет пять акцентных цветов, которые можно использовать для разных нужд, а также учитывает тёмную тему.
 
-The leading players seem permanent to us in the moment, but are forgotten just as quickly as they once took over the headlines. Remember Compuserve? Or America Online? How about MySpace? The social bias of the medium rejects the business bias of any particular venue.
-This essential bias is consistently misunderstood and mischaracterized as fear or selfishness on the part of net users. The anger people feel over a social networking site’s ever-changing policies really has less to do with anyinvasion of their privacy than the monetization of their friendships. The information gleaned from their activity is being used for other than social purposes—and this feels creepy. Friends are not bought and sold.
+Типографика состоит из нескольких видов текста, каждый для разных нужд. В качестве основного шрифта был использован Montserrat, так как он способен подчеркнуть минималистичность сайта, а также хорошо читается практически с любых расстояний на любых девайсах.
 
-Many people—and not just young people—are already incapable of seeing any ethical drawback to misrepresenting themselves to their online friends. “So what if I’m getting paid to tell everyone in my network that I’m a fan of a band I’ve never heard of before?” “Everyone is doing it.” “Caveat emptor—let the buyer beware.” The problem is, these people are not talkingto buyers, but to friends. They don’t even experience their online social networks as somehow separate from their personal lives, but one and the same. Unlike the businessman who is ruthless on the job and loving at home, they are equally ruthless with friends and strangers alike. This may be more consistent, but it is hardly more evolved. It’s equal opportunity exploitation.
+Компоненты для развития макетов страниц также были сделаны с особым вниманием. Каждый компонент имеет хотя бы две вариации, а также имеет разные подтипы в зависимости от цвета темы, что  в разы ускоряет проектирование страниц, а также уменьшает время на их редактирование. Особое внимание было уделено кнопкам и чекбоксам: кнопки имеют целых пять цветовых вариаций, а также имеют состояния нажатии и деактивации; чекбоксы же имеют красивую и свободную анимацию при наведении и несколько состояний в зависимости от нажатия. Все компоненты удобно использовать в работе, создатель Style Guide с радостью даёт обратную связь по их использованию, а также по мере развития проекта, дополняет коллекцию компонентов новыми элементами.
 
-Social networking sites are filled with features, games, and activities that are compellingly addictive yet ultimately more rewarding to the network’s owners than its members.
+Также стоит отметить работу Саввы в сфере редактирования страниц. По мере работы, он не только исправлял недочёты коллег, но и писал каждому подробные комментарии с изменениями, которые стоит учесть при проектировании макетов страниц. Из-за такой огромной работы, макеты сайта выглядят однородно и имеют одинаковую стилистику.
 
-virtual connections are an extension of our social reality. These are the people who help us find the right doctor when we are sick, who support us when we’re out of work, and who comfort us when we lose a relative. They’re the ones who help us find a couch to sleep on when we’retraveling, a decent party to go to on Saturday night, or the right graduate program for a cross-disciplinary research interest. Finally though, all these contacts are less valuable for the particular things they might do for us thanfor the mere fact that they are connected to us at all.
+### Заключение
 
-People are not things to be sold piecemeal, but living members of a network whose value can only be realized in a free-flowing and social context. We have yet to find out what that value might be.
-We are too slow to realize that people are nota form of content—a resource to be bought and sold; they are fellow cells in the greater organism of which we are all a part but are barely aware. We value our increased contacts for what they might provide and miss the greater value of the contact itself.
+Коллеги с проекта "Остаточные знания" неоднократно приятно отзывались о работе Саввы над Style Guide и стилистикой сайта, а также поощряли его подробные комментарии с правками, отзывчивость и стремление помочь при работе с дизайном сайта. Его преданность этому делу не знает границ, что заметно окружающим. Style Guide не только объединил все дизайны страницы сайта, но и сплотил коллектив так, как ничто другое не смогло бы его сплотить.
 
-But it is this contact, this desire to construct a social organism together, that has been the driving force of digital technology all along. The instinct for increased contact is the evolutionary imperative we feel to become something greater than ourselves. Just as atoms combined into molecules, molecules clustered into cells, and cells collected into organisms, we organisms are networking into greater levels of organization.
 
-The content is not the message, the contact is. The ping itself. It’s the synaptic transmission of an organism trying to wake itself up.
-
-## IX. OPENNESS
-
-_Digital networks were built for the purpose of sharing computing
-resources by people who were themselves sharing resources,
-technologies, and credit in order to create it. This is why digital
-technology is biased in favor of openness and sharing. Because we
-are not used to operating in a realm with these biases, however, we
-often exploit the openness of others or end up exploited ourselves.
-By learning the diﬀerence between sharing and stealing, we can
-promote openness without succumbing to selﬁshness._
-
-The people on the other side of the screen spent time and energy on the things we read and watch. When we insist on consuming it for free, we are pushing them toward something much closer to the broadcast television model, where ads fund everything. We already know what that does for the quality of news and entertainment. Yet this is precisely the model that the ad-based hosts and search engines are pushing for. By encouraging us to devalue and deprofessionalize our work, these companies guarantee a mediaspace where only they get paid. They devalue the potential of the network itself to createvalue in new ways. It’s just like free TV, except the writers and actors don’t receive any income. Instead, they just pay for the equipment to create and for access to the servers they don’t own.
-
-**[From Douglas Rushkoff - Program or Be Programmed](https://rushkoff.com/)**
-
-## Remunerate my time and energy 💫
-
-![Liberapay receiving](https://img.shields.io/liberapay/receives/ololiuhqui)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/ololiuhqui)
-
-Designing this theme and making it available for you took a lot of time and effort.
-
-The MIT license means that you are completely free to do whatevere you want with this theme, even [make money from it!](https://opensource.org/license/MIT) With the only obligation to include the attribution!
-
-If you wish you can support me in several ways:
-
-### Single donation:
-
-<details><summary><b> BuyMeACoffee </b></summary>
-
-<a href="https://www.buymeacoffee.com/ololiuhqui" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: auto ;width: 150px;" ></a>
-
-</details>
-<br>
-<details><summary><b> Bitcoin (BTC) </b></summary>
-
-```
-bc1q26f4gscc5ksujdx6wzxfnlqeqt02p3sjcqwvln
-```
-
-![btc-bc1q26f4gscc5ksujdx6wzxfnlqeqt02p3sjcqwvln](https://raw.githubusercontent.com/ololiuhqui/magnolia-free-hugo-theme/main/images/.readme_images/bitcoin-qr.png)
-
-</details>
-
-### Recurring donations:
-
-<details><summary><b> LiberaPay </b></summary>
-
-<a href="https://liberapay.com/ololiuhqui/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
-
-</details>
-<br/>
-<details><summary><b> GitHub Sponsors </b></summary>
-<a href="https://github.com/ololiuhqui/magnolia-free-hugo-theme">Github Repo</a>
-
-</details>
