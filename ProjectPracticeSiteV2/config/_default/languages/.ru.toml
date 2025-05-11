@@ -42,23 +42,17 @@ ___
 
 [params.contacts]
   title = "Ресурсы:"
-  ###
-  
-  ###
-  formCallToAction = "[theme github page](https://github.com/ololiuhqui/magnolia-free-hugo-theme)."
+
   intro = """
-  ### Hello
+  ___
+  #### 1. [Сайт Личного Кабинета Московского Политеха](https://e.mospolytech.ru/) | Дизайн для сайта остаточных знаний преимущественно основан на дизайне личного кабинета университета, чтобы сервисы имели отличительный стиль.
+  #### 2. [How to Create a Telegram Bot using Python](https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/) | Технология для вариативной части проекта и спсооб её создания.
+  3. [How to use Hugo](https://youtu.be/LIFvgrRxdt4) | Подробный гайд по использованию HUGO.
+  ___
   """
-  socialCallToAction = "You can add your own social media links below!" # These are the same as in [params.social]
+
   [params.contacts.form]
-    formspreeLink = "https://yourformspreelink.com" #subscribe to formspree and add the link for the form here
-    firstname = "Firstname*"
-    lastname = "Lastname*"
-    email = "E-mail*"
-    phone = "Phone Number*"
-    Inquiry = "Inquiry*"
-    checkbox = "I accept that my data will be processed in accordance with the law*"
-    submitBtn = "Submit"
+    
 [params.services]
   title = "О проекте"
   description = """Целью проекта "Остаточные знания" является разработка онлайн-сервиса для отслеживания процесса проведения остаточных знаний работникам университета."""   
@@ -130,5 +124,5 @@ ___
   weight = 3
   [[menus.main]]
   name = "Ресурсы"
-  pageRef = "pages/contacts"
+  pageRef = "pages/resourses"
   weight = 4
