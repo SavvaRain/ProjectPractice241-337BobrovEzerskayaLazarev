@@ -2,8 +2,8 @@ disabled = false
 languageCode = 'ru'
 languageName = 'Русский'
 title = 'Остаточные Знания' # This will go in the Header as well
-copyright = """Designed with [Hugo](https://gohugo.io/) by [Ludovico Caluori](https://github.com/ololiuhqui) 🎨 \n
- Licensed under [MIT license](https://github.com/ololiuhqui/magnolia-free-hugo-theme/blob/main/LICENSE.md) 📄""" # Please leave this here to give me and the tools i used some credit for the work, or BuyMeACoffee and change or remove the copyrightlink below :)
+copyright = """ \n
+""" # Please leave this here to give me and the tools i used some credit for the work, or BuyMeACoffee and change or remove the copyrightlink below :)
 contentDir = "content/ru"
 
 
@@ -37,7 +37,7 @@ ___
  title = "Участники"
  title1 = "Участник 1"
  title2 = "Участник 2"
- title3 = "Участник "
+ title3 = "Участник 3"
  description1 = "Это текст, описывающий вклад участника в проект по Проектной деятельности, да. Это текст, описывающий вклад участника в проект по Проектной деятельности, да. Это текст, описывающий вклад участника в проект по Проектной деятельности, да. Это текст, описывающий вклад участника в проект по Проектной деятельности, да."
  description2 = "Это текст, описывающий вклад участника в проект по Проектной деятельности, да. Это текст, описывающий вклад участника в проект по Проектной деятельности, да. Это текст, описывающий вклад участника в проект по Проектной деятельности, да. Это текст, описывающий вклад участника в проект по Проектной деятельности, да."
  description3 = "Это текст, описывающий вклад участника в проект по Проектной деятельности, да. Это текст, описывающий вклад участника в проект по Проектной деятельности, да. Это текст, описывающий вклад участника в проект по Проектной деятельности, да. Это текст, описывающий вклад участника в проект по Проектной деятельности, да."
@@ -94,24 +94,27 @@ ___
     day7 = ""
 
 [params.footer]
-  extraDescription1 = "Straight outta Scranton city"
-  extraDescription2 = "VAT No. 0000000000"
+  extraDescription1 = ""
+  extraDescription2 = ""
   [params.footer.navigate]
-  heading = "Navigate"
+  heading = "Навигация"
   [params.footer.contacts]
   enabled = true # enables/disables the whole contacts section in footer
-  heading = "Contact"
-  address = "Scranton 2865 Pouros Corners 55441-0788"
-  mail = "dundermifflin@fakemail.com"
-  mail2 = "dundermifflinorders@fakemail.com"
-  phone = "+00 0000000"
+  heading = ""
+  address = ""
+  mail = ""
+  mail2 = ""
+  phone = ""
 
 [params.notfound]
-  title = "404, page not found" # text for 404 page
+  title = "404, страница не найдена :(" # text for 404 page
 
 [params.single] # for posts pages (visible only if posts are rendered)
-  similarContent= "Similar Content"
-  toc= "Table of Contents"
+  similarContent= "Вам может понравится:"
+  toc= "Содержание"
+
+[params.baseof]
+  title= "Записи журнала"
 
 [menus]
 # PageRef should refer to the "translationKey" in `/content/<page>` frontmatter, names can be changed freely

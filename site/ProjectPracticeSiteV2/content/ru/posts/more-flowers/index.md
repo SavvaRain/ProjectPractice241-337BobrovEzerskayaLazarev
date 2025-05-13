@@ -1,10 +1,10 @@
 ---
-title: 'More Flowers'
-slug: 'more-flowers'
-tags: ['flowers', 'growing']
-summary: "_They are incredibly beautiful, aren't Them? Well, of course They Are!_ \n \n I wrote this summary by hand, you can do it too in the `content/posts/<post-name>/index.md` file! But don't worry, if you don't write a summary yourself, the theme will grab it automagically from the content of the post! And it will include it in SEO too!" # This is what will be displayed as summary for the post (the theme will automatically generate one from the content you write in the post if left empty)
+title: 'Макет страницы "приказы" для Лица Принимающего Решения'
+slug: 'order'
+tags: ['Дизайн', 'ЛПР', 'Бобров']
+summary: "Бобров Денис разработал дизайн-макет страницы для проекта 'Остаточные Знания', а именно макет 'Приказов' для роли, принимающей решения. Макет имеет все нужные функции, включая быстрый просмотр приказов, их редактирование и добавление. Пользователь может посмотреть все приказы менее, чем за минуту! Подробнее о функционале страницы, а также её разработке можно прочитать в посте." # This is what will be displayed as summary for the post (the theme will automatically generate one from the content you write in the post if left empty)
 description: # This is what will be displayed as meta description (the theme will automatically grab it from summary if left empty)
-date: '2024-10-03T10:49:18+02:00'
+date: '2025-03-02T10:49:18+02:00'
 expiryDate: ''
 translationKey: more-flowers # If you have a translated post for this one, set the same translationKey to have the translation displayed
 draft:
@@ -12,38 +12,22 @@ type: # This is here for future possible development, you can leave it blank
 layout: 'single'
 # Refer to [Front matter | Hugo](https://gohugo.io/content-management/front-matter/)
 Params:
-  imageAttribution: 'Photo by <a href="https://unsplash.com/it/@elmuff?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sandra Grünewald</a> on <a href="https://unsplash.com/it/foto/fiori-rosa-sul-ramo-dellalbero-5qZzzFnG1qw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  ' # Set an attribution to the author of the picture you're using for the post
+  imageAttribution: ''
+   # Set an attribution to the author of the picture youre using for the post
 ---
 
-```
-I wandered lonely as a cloud
-That floats on high o'er vales and hills,
-When all at once I saw a crowd,
-A host, of golden daffodils;
-Beside the lake, beneath the trees,
-Fluttering and dancing in the breeze.
+### Основная часть поста
 
-Continuous as the stars that shine
-And twinkle on the milky way,
-They stretched in never-ending line
-Along the margin of a bay:
-Ten thousand saw I at a glance,
-Tossing their heads in sprightly dance.
+Боброву Денису было поручено разработать дизайн страницы “Приказы” для ЛПР чтобы она была приятной и понятной пользователю, а также соответствовала стилю остальных сервисов Московского Политеха. В качестве основы был взят Style Guide предоставленный Лазаревым Саввой.
+ 
+Функционал сайта был сделан отзывчивым и понятным для пользователя, а также по возможности минималистичным, чтобы пользование было удобным и не создавался визуальный шум на страницах. При всём при этом сохранён весь необходимый для полноценной работы функционал. Работа на страницах осуществляется легко и интуитивно понятно.
+ 
+Цветовая палитра и компоненты были взяты также из Style Guide, чтобы все страницы сочетались между собой, с остальным сайтом и с сайтом Московского Политеха. Такой подход упрощает пользователю работу на сайте и не создаёт визуальный дискомфорт. Сам сайт сделан в минималистичном, но при этом приятном и самое главное понятном для работы стиле и не создаёт эстетический дискомфорт для пользователя.
 
-The waves beside them danced; but they
-Out-did the sparkling waves in glee:
-A poet could not but be gay,
-In such a jocund company:
-I gazed—and gazed—but little thought
-What wealth the show to me had brought:
+Стоит также отметить, что дизайн имеет две версии:светлую и тёмную, для комфортной работы и сохранению зрения в любое время суток.
 
-For oft, when on my couch I lie
-In vacant or in pensive mood,
-They flash upon that inward eye
-Which is the bliss of solitude;
-And then my heart with pleasure fills,
-And dances with the daffodils.
-```
+Также стоит отметить работу Денис в сфере редактирования страниц. По мере работы, он активно коммуницировал с коллегами для согласования всех аспектов дизайна сайта, благодаря этому все страницы выполнены в едином стиле и при этом понятны в использовании.
+ 
+### Заключение
 
-**By William Wordsworth**
+Коллеги с проекта "Остаточные знания"неоднократно приятно отзывались о работе Денис над дизайном страницы “Приказы” для ЛПР, а также поощряли его отзывчивость и стремление помочь при работе с дизайном сайта. Его преданность делу не знает границ, что заметно окружающим.
