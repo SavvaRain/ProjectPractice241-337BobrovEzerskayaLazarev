@@ -3,12 +3,104 @@
   "WorkspaceRootPath": "W:\\Experiments\\ProjectPractice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\section.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\section.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\post-card.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\post-card.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\services.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\services.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\404.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\baseof.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\baseof.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\head.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\head.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\a-poem-about-flowers\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\content\\ru\\posts\\a-poem-about-flowers\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\footer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSite\\themes\\resume\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSite\\themes\\resume\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\content\\ru\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\more-flowers\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\content\\ru\\posts\\more-flowers\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\why-donating-to-free-and-opensource-software-projects-is-important\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\content\\ru\\posts\\why-donating-to-free-and-opensource-software-projects-is-important\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSite\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSite\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\term.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\term.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\taxonomy.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\taxonomy.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\config\\_default\\config.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\config\\_default\\config.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\archetypes\\tag\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\archetypes\\tag\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\archetypes\\post-bundle\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\archetypes\\post-bundle\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -22,37 +114,336 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "office.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T21:47:26.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "services.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\services.html",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\services.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\services.html",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\services.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T21:47:25.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "404.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\404.html",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\404.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\404.html",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\404.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T21:47:23.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "baseof.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\baseof.html",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\baseof.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\baseof.html",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\baseof.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T21:46:40.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "home.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\home.html",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\home.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\home.html",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\home.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T21:46:38.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "header.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\header.html",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\header.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\header.html",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\header.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T21:46:13.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.md",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\a-poem-about-flowers\\index.md",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\content\\ru\\posts\\a-poem-about-flowers\\index.md",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\a-poem-about-flowers\\index.md",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\content\\ru\\posts\\a-poem-about-flowers\\index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-13T21:45:52.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "head.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\head.html",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\head.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\head.html",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\head.html",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T21:45:21.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "post-card.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\post-card.html",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\post-card.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\post-card.html",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\post-card.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T21:22:55.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "section.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\section.html",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\section.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\section.html",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\section.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T21:24:52.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "footer.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\footer.html",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\footer.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\footer.html",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\partials\\footer.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T21:45:16.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "README.md",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSite\\themes\\resume\\README.md",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSite\\themes\\resume\\README.md",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSite\\themes\\resume\\README.md",
+              "RelativeToolTip": "site\\ProjectPracticeSite\\themes\\resume\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-13T21:44:26.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "README.md",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\README.md",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\README.md",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\README.md",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\README.md",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAhwJMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-13T21:44:11.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_index.md",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\_index.md",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\content\\ru\\_index.md",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\_index.md",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\content\\ru\\_index.md",
+              "ViewState": "AgIAADIAAAAAAAAAAAAhwE4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-13T21:43:30.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.md",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\more-flowers\\index.md",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\content\\ru\\posts\\more-flowers\\index.md",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\more-flowers\\index.md",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\content\\ru\\posts\\more-flowers\\index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-13T21:40:44.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "single.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\single.html",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T21:24:53.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSite\\public\\index.html",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSite\\public\\index.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSite\\public\\index.html",
+              "RelativeToolTip": "site\\ProjectPracticeSite\\public\\index.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T21:30:26.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "taxonomy.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\taxonomy.html",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\taxonomy.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\taxonomy.html",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\taxonomy.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T21:24:57.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "config.toml",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\config\\_default\\config.toml",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\config\\_default\\config.toml",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\config\\_default\\config.toml",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\config\\_default\\config.toml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-13T21:24:39.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "README.md",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\README.md",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\README.md",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\README.md",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-13T21:19:19.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_index.md",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\archetypes\\tag\\_index.md",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\archetypes\\tag\\_index.md",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\archetypes\\tag\\_index.md",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\archetypes\\tag\\_index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-13T21:19:00.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "index.md",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\archetypes\\post-bundle\\index.md",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\archetypes\\post-bundle\\index.md",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\archetypes\\post-bundle\\index.md",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\archetypes\\post-bundle\\index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-13T21:18:41.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "index.md",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\why-donating-to-free-and-opensource-software-projects-is-important\\index.md",
               "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\content\\ru\\posts\\why-donating-to-free-and-opensource-software-projects-is-important\\index.md",
               "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\why-donating-to-free-and-opensource-software-projects-is-important\\index.md",
               "RelativeToolTip": "site\\ProjectPracticeSiteV2\\content\\ru\\posts\\why-donating-to-free-and-opensource-software-projects-is-important\\index.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-05-12T17:29:13.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
+              "Title": "term.html",
+              "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\term.html",
+              "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\term.html",
+              "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\term.html",
+              "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\_default\\term.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T21:24:58.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": ".ru.toml",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
               "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
               "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
               "RelativeToolTip": "site\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-05-12T17:29:06.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 25,
               "Title": "README.md",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\ProjectPracticeSiteV2\\themes\\Magnolia\\README.md",
               "RelativeDocumentMoniker": "ProjectPracticeSiteV2\\themes\\Magnolia\\README.md",

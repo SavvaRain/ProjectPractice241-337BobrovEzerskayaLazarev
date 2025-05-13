@@ -137,7 +137,7 @@ For each language, you will find yourself in front of the homepage `_index.md` a
 `posts`= site posts.
 `tags` = custom tags.
 
-#### Posts
+#### Посты
 
 - Create a new post with: `hugo new --kind post-bundle content/<lang>/posts/<post-name>`. This will be its very simple structure:
 

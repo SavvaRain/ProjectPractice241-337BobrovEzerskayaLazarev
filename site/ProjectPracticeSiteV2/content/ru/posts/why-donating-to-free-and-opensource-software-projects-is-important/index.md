@@ -1,7 +1,7 @@
 ---
 title: 'Разарботка полноценного Style Guide для страниц'
 slug: 'style-guide'
-tags: ['Дизайн', 'Стилистика', 'Лазарев''Компоненты', 'Лазарев']
+tags: ['Дизайн', 'Стилистика', 'Лазарев', 'Компоненты']
 summary: 'Лазарев Савва разработал уникальный style guide для разработки сайта "Остаточных Знаний" Московского Политеха с палитрой, типографикой, компонентами и прочими примечаниями, которые могут использовать все дизайнеры проекта. Style Guide помог превратить неупорядоченные макеты страниц в системные макеты с одинаковым стилем и похожим дизайном. Подробнее о процессе разработки можете прочитать в посте!' # This is what will be displayed as summary for the post (the theme will automatically generate one from the content you write in the post if left empty)
 description: # This is what will be displayed as meta data (the theme will automatically grab it from summary if left empty)
 date: '2025-03-03T11:16:02+02:00'

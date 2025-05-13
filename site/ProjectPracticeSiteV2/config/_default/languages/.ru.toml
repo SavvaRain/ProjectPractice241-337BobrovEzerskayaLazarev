@@ -113,8 +113,6 @@ ___
   similarContent= "Вам может понравится:"
   toc= "Содержание"
 
-[params.baseof]
-  title= "Записи журнала"
 
 [menus]
 # PageRef should refer to the "translationKey" in `/content/<page>` frontmatter, names can be changed freely
