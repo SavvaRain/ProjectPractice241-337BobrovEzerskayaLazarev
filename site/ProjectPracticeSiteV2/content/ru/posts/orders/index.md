@@ -6,7 +6,7 @@ summary: "Бобров Денис разработал дизайн-макет �
 description: # This is what will be displayed as meta description (the theme will automatically grab it from summary if left empty)
 date: '2025-03-18T10:49:18+02:00'
 expiryDate: ''
-translationKey: more-flowers # If you have a translated post for this one, set the same translationKey to have the translation displayed
+translationKey: order # If you have a translated post for this one, set the same translationKey to have the translation displayed
 draft:
 type: # This is here for future possible development, you can leave it blank
 layout: 'single'
