@@ -3,14 +3,14 @@
     "",
     "\\site",
     "\\site\\ProjectPracticeSiteV2",
+    "\\site\\ProjectPracticeSiteV2\\config",
+    "\\site\\ProjectPracticeSiteV2\\config\\_default",
     "\\site\\ProjectPracticeSiteV2\\content",
     "\\site\\ProjectPracticeSiteV2\\content\\ru",
-    "\\site\\ProjectPracticeSiteV2\\content\\ru\\posts",
-    "\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\a-poem-about-flowers",
-    "\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\a-poem-about-flowers\\images",
-    "\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\flowers again",
-    "\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\flowers again\\images"
+    "\\site\\ProjectPracticeSiteV2\\content\\ru\\pages\\contacts",
+    "\\site\\ProjectPracticeSiteV2\\content\\ru\\pages\\services",
+    "\\site\\ProjectPracticeSiteV2\\content\\ru\\posts"
   ],
-  "SelectedNode": "\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\why-donating-to-free-and-opensource-software-projects-is-important\\images\\featured.png",
+  "SelectedNode": "\\site\\ProjectPracticeSiteV2\\content\\ru\\_index.md",
   "PreviewInSolutionExplorer": false
 }
