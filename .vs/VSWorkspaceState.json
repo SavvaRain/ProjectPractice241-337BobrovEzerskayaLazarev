@@ -5,10 +5,7 @@
     "\\site\\ProjectPracticeSite",
     "\\site\\ProjectPracticeSite\\config",
     "\\site\\ProjectPracticeSite\\config\\_default",
-    "\\site\\ProjectPracticeSite\\config\\_default\\languages",
-    "\\site\\ProjectPracticeSite\\content\\ru",
-    "\\site\\ProjectPracticeSite\\content\\ru\\pages",
-    "\\site\\ProjectPracticeSite\\content\\ru\\posts"
+    "\\site\\ProjectPracticeSite\\config\\_default\\languages"
   ],
   "SelectedNode": "\\site\\ProjectPracticeSite\\config\\_default\\languages\\.ru.toml",
   "PreviewInSolutionExplorer": false
