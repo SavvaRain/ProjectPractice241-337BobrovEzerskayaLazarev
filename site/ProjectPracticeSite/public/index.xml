@@ -9,8 +9,15 @@
     <copyright> 
 
 </copyright>
-    <lastBuildDate>Tue, 22 Apr 2025 12:10:50 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 12:10:50 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/ProjectPractice.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Документация создания бота в Телеграмм</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/posts/bot-creation/</link>
+      <pubDate>Fri, 02 May 2025 12:10:50 +0200</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/posts/bot-creation/</guid>
+      <description>В рамках проектной практики мы модифицировали телеграмм-бота. Теперь он может конвентировать аудио-файлы в речь!</description>
+    </item>
     <item>
       <title>Карьерный марафон: полезная информация</title>
       <link>http://localhost:1313/ProjectPractice.github.io/posts/career-mospoly/</link>
