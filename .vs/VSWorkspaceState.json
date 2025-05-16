@@ -1,7 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\docs",
     "\\site",
     "\\site\\ProjectPracticeSite",
     "\\site\\ProjectPracticeSite\\content",
@@ -9,7 +8,9 @@
     "\\site\\ProjectPracticeSite\\content\\ru\\posts",
     "\\site\\ProjectPracticeSite\\content\\ru\\posts\\bot-creation",
     "\\site\\ProjectPracticeSite\\content\\ru\\posts\\bot-creation\\images",
-    "\\site\\ProjectPracticeSite\\content\\ru\\posts\\career-mospol"
+    "\\site\\ProjectPracticeSite\\content\\ru\\posts\\career-mospol",
+    "\\site\\ProjectPracticeSite\\content\\ru\\posts\\career-mospol\\images",
+    "\\src"
   ],
   "SelectedNode": "\\site\\ProjectPracticeSite\\content\\ru\\posts\\bot-creation\\index.md",
   "PreviewInSolutionExplorer": false

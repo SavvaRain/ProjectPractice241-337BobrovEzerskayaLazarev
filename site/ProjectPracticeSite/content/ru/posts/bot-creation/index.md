@@ -33,15 +33,15 @@ pip install -r requirements.txt
 ```
 audio-bot/
 ├── src/
-│   └── bot.py          # Основной код бота
+│   └── BlackRedBot.py      # Основной код бота
 ├── docs/
-│   ├── REPORT.md       # Отчёт о работе
-│   └── ARCHITECTURE.md # Описание архитектуры
-├── assets/             # Изображения
-└── requirements.txt    # Зависимости
+│   ├── BotDocumentation.md # Отчёт о работе
+│   └── ARCHITECTURE.md     # Описание архитектуры
+├── assets/                 # Изображения
+└── requirements.txt        # Зависимости
 ```
 
-### 2. docs/REPORT.md (отчёт о проекте)
+### 2. `docs/REPORT.md` (отчёт о проекте)
 
 #### Цели проекта
 1. Создать Telegram-бота для конвертации аудио в текст
