@@ -28,7 +28,7 @@ ___
     mainButton = "О проекте"
     mainButtonRef = "about" # Just write the name or slug of the page here
     secondButton = "Участники"
-    secondButtonRef = "contacts" # Just write the name or slug of the page here
+    secondButtonRef = "members" # Just write the name or slug of the page here
   # For the blog feed section (visible only if posts are rendered)
     blogTitle = "Журнал"
     blogButton= "Больше записей"
