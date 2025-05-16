@@ -1,11 +1,113 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Остаточные Знания</title>
+    <link>http://localhost:1313/ProjectPractice.github.io/tags/</link>
+    <description>Recent content in Tags on Остаточные Знания</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language>
+    <copyright> 
+
+</copyright>
+    <lastBuildDate>Tue, 22 Apr 2025 12:10:50 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/ProjectPractice.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Взаимодействие С Организацией</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/tags/%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5-%D1%81-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B5%D0%B9/</link>
+      <pubDate>Tue, 22 Apr 2025 12:10:50 +0200</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/tags/%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5-%D1%81-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B5%D0%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Мероприятие</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/tags/%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/</link>
+      <pubDate>Tue, 22 Apr 2025 12:10:50 +0200</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/tags/%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Дизайн</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/tags/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/</link>
+      <pubDate>Mon, 24 Mar 2025 10:49:18 +0200</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/tags/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Езерская</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/tags/%D0%B5%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F/</link>
+      <pubDate>Mon, 24 Mar 2025 10:49:18 +0200</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/tags/%D0%B5%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Элементы</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/tags/%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/</link>
+      <pubDate>Mon, 24 Mar 2025 10:49:18 +0200</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/tags/%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Бобров</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/tags/%D0%B1%D0%BE%D0%B1%D1%80%D0%BE%D0%B2/</link>
+      <pubDate>Tue, 18 Mar 2025 10:49:18 +0200</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/tags/%D0%B1%D0%BE%D0%B1%D1%80%D0%BE%D0%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ЛПР</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/tags/%D0%BB%D0%BF%D1%80/</link>
+      <pubDate>Tue, 18 Mar 2025 10:49:18 +0200</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/tags/%D0%BB%D0%BF%D1%80/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Компоненты</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/tags/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B/</link>
+      <pubDate>Mon, 03 Mar 2025 11:16:02 +0200</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/tags/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Лазарев</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/tags/%D0%BB%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2/</link>
+      <pubDate>Mon, 03 Mar 2025 11:16:02 +0200</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/tags/%D0%BB%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Стилистика</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/tags/%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/</link>
+      <pubDate>Mon, 03 Mar 2025 11:16:02 +0200</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/tags/%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flowers</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/tags/flowers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/tags/flowers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Free and Opensource Software</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/tags/foss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/tags/foss/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Growing</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/tags/growing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/tags/growing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Planting</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/tags/planting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/tags/planting/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

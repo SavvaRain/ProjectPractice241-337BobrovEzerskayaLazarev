@@ -2,15 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\site",
-    "\\site\\ProjectPracticeSiteV2",
-    "\\site\\ProjectPracticeSiteV2\\config",
-    "\\site\\ProjectPracticeSiteV2\\config\\_default",
-    "\\site\\ProjectPracticeSiteV2\\content",
-    "\\site\\ProjectPracticeSiteV2\\content\\ru",
-    "\\site\\ProjectPracticeSiteV2\\content\\ru\\pages\\contacts",
-    "\\site\\ProjectPracticeSiteV2\\content\\ru\\pages\\services",
-    "\\site\\ProjectPracticeSiteV2\\content\\ru\\posts"
+    "\\site\\ProjectPracticeSite",
+    "\\site\\ProjectPracticeSite\\config",
+    "\\site\\ProjectPracticeSite\\config\\_default",
+    "\\site\\ProjectPracticeSite\\config\\_default\\languages",
+    "\\site\\ProjectPracticeSite\\content\\ru",
+    "\\site\\ProjectPracticeSite\\content\\ru\\pages",
+    "\\site\\ProjectPracticeSite\\content\\ru\\posts"
   ],
-  "SelectedNode": "\\site\\ProjectPracticeSiteV2\\content\\ru\\_index.md",
+  "SelectedNode": "\\site\\ProjectPracticeSite\\config\\_default\\languages\\.ru.toml",
   "PreviewInSolutionExplorer": false
 }

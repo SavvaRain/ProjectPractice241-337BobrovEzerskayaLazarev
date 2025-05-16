@@ -1,11 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Остаточные Знания</title>
+    <link>http://localhost:1313/ProjectPractice.github.io/</link>
+    <description>Recent content on Остаточные Знания</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language>
+    <copyright> 
+
+</copyright>
+    <lastBuildDate>Tue, 22 Apr 2025 12:10:50 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/ProjectPractice.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Карьерный марафон: полезная информация</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/posts/career-mospoly/</link>
+      <pubDate>Tue, 22 Apr 2025 12:10:50 +0200</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/posts/career-mospoly/</guid>
+      <description>С 21 по 25 апреля в Московском Политехе проводился ряд мероприятий, нацеленных на получение профессиональных знаний для развитие карьерных навыков. Мы посетили одно из них и получили полезную информацию, о которой можно прочитать в посте!</description>
+    </item>
+    <item>
+      <title>Создание страниц с графическими элементами: красота и простота</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/posts/form-end-styles/</link>
+      <pubDate>Mon, 24 Mar 2025 10:49:18 +0200</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/posts/form-end-styles/</guid>
+      <description>Езерская Маргарита разработала страницы завершения формы с собственными графическими элементами. Она основывается на двух простых принципах дизайна: приятная картинка и быстрое использование, что сделало её одной из самых лучших страниц в макете. После разработки страницы, Маргарита начала разрабатывать другие графические элементы для проекта, о которых можно узнать в посте!</description>
+    </item>
+    <item>
+      <title>Макет страницы &#34;приказы&#34; для Лица Принимающего Решения</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/posts/order/</link>
+      <pubDate>Tue, 18 Mar 2025 10:49:18 +0200</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/posts/order/</guid>
+      <description>Бобров Денис разработал дизайн-макет страницы для проекта &amp;lsquo;Остаточные Знания&amp;rsquo;, а именно макет &amp;lsquo;Приказов&amp;rsquo; для роли, принимающей решения. Макет имеет все нужные функции, включая быстрый просмотр приказов, их редактирование и добавление. Пользователь может посмотреть все приказы менее, чем за минуту! Подробнее о функционале страницы, а также её разработке можно прочитать в посте.</description>
+    </item>
+    <item>
+      <title>Разарботка полноценного Style Guide для страниц</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/posts/style-guide/</link>
+      <pubDate>Mon, 03 Mar 2025 11:16:02 +0200</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/posts/style-guide/</guid>
+      <description>Лазарев Савва разработал уникальный style guide для разработки сайта &amp;ldquo;Остаточных Знаний&amp;rdquo; Московского Политеха с палитрой, типографикой, компонентами и прочими примечаниями, которые могут использовать все дизайнеры проекта. Style Guide помог превратить неупорядоченные макеты страниц в системные макеты с одинаковым стилем и похожим дизайном. Подробнее о процессе разработки можете прочитать в посте!</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Members</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/members/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resourses</title>
+      <link>http://localhost:1313/ProjectPractice.github.io/resourses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ProjectPractice.github.io/resourses/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

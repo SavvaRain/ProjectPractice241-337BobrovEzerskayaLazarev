@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\content\\ru\\posts\\flowers again\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\style-guide\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\content\\ru\\posts\\style-guide\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\orders\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\content\\ru\\posts\\orders\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -31,14 +39,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\content\\ru\\pages\\_index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\style-guide\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\content\\ru\\posts\\style-guide\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\orders\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\content\\ru\\posts\\orders\\index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -54,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "index.html",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\pages\\services\\index.html",
               "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\content\\ru\\pages\\services\\index.html",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "index.html",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\pages\\contacts\\index.html",
               "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\content\\ru\\pages\\contacts\\index.html",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "_index.md",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\_index.md",
               "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\content\\ru\\_index.md",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "_index.md",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\pages\\_index.md",
               "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\content\\ru\\pages\\_index.md",
@@ -106,26 +106,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "index.md",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\style-guide\\index.md",
               "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\content\\ru\\posts\\style-guide\\index.md",
               "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\style-guide\\index.md",
               "RelativeToolTip": "site\\ProjectPracticeSiteV2\\content\\ru\\posts\\style-guide\\index.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-05-15T14:40:17.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "index.md",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\orders\\index.md",
               "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\content\\ru\\posts\\orders\\index.md",
               "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\orders\\index.md",
               "RelativeToolTip": "site\\ProjectPracticeSiteV2\\content\\ru\\posts\\orders\\index.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-05-15T14:40:10.989Z",
               "EditorCaption": ""
@@ -138,20 +138,20 @@
               "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\content\\ru\\posts\\flowers again\\index.md",
               "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\flowers again\\index.md",
               "RelativeToolTip": "site\\ProjectPracticeSiteV2\\content\\ru\\posts\\flowers again\\index.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-05-15T14:32:49.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": ".ru.toml",
               "DocumentMoniker": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
               "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
               "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
               "RelativeToolTip": "site\\ProjectPracticeSiteV2\\config\\_default\\languages\\.ru.toml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADcAAAANAQAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-05-15T13:57:00.758Z",
               "EditorCaption": ""
@@ -164,7 +164,7 @@
               "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html",
               "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html",
               "RelativeToolTip": "site\\ProjectPracticeSiteV2\\themes\\Magnolia\\layouts\\pages\\office.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-15T13:53:56.412Z",
               "EditorCaption": ""
@@ -177,7 +177,7 @@
               "RelativeDocumentMoniker": "site\\ProjectPracticeSiteV2\\content\\ru\\posts\\a-poem-about-flowers\\index.md",
               "ToolTip": "W:\\Experiments\\ProjectPractice\\site\\ProjectPracticeSiteV2\\content\\ru\\posts\\a-poem-about-flowers\\index.md",
               "RelativeToolTip": "site\\ProjectPracticeSiteV2\\content\\ru\\posts\\a-poem-about-flowers\\index.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAD4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-05-15T13:49:31.174Z",
               "EditorCaption": ""
